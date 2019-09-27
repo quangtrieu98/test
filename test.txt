@@ -3,3 +3,10 @@ test 2
 test 3
 test 4
 test 5
+<<<<<<< HEAD
+=======
+test 6
+alo 
+alo 1234
+>>>>>>> 3b562931e7d73c74ac91e288263844e8e683b744
+1234 alo blo
